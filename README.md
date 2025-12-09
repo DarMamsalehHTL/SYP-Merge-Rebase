@@ -31,3 +31,8 @@
 ![](pictures/Screenshot%202025-12-09%20093140.png)
 
 
+## Nach dem Merge:
+
+![](pictures/Screenshot%202025-12-09%20093554.png)
+![](pictures/Screenshot%202025-12-09%20093603.png)
+
