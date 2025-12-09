@@ -1,1 +1,20 @@
 # SYP-Merge-Rebase
+
+## 1. Repository erstellen & erste Datei committen
+- onMain.md wird angelegt und auf main committet.
+- Historie enthält 1 Commit.
+
+![](pictures/Screenshot%202025-12-03%20122829.png)
+
+## 2. Branch a-feature erstellen
+- Branch wird erstellt und ausgecheckt.
+- Datei onBranch.md wird erstellt und committet.
+- Noch ein Commit: weitere Zeilen in onBranch.md.
+
+![](pictures/Screenshot%202025-12-03%20122901.png)
+
+## 3. Zurück zu main wechseln
+- Historie auf main enthält nur den einen Commit:
+
+![](pictures/Screenshot%202025-12-03%20122829.png)
+
