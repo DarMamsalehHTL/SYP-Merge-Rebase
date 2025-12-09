@@ -26,13 +26,23 @@
 
 ![](pictures/Screenshot%202025-12-09%20092504.png)
 
-## Historie a-feature
+## 6. Historie a-feature
 
 ![](pictures/Screenshot%202025-12-09%20093140.png)
 
 
-## Nach dem Merge:
+## 7. Nach dem Merge:
 
 ![](pictures/Screenshot%202025-12-09%20093554.png)
 ![](pictures/Screenshot%202025-12-09%20093603.png)
+
+## 8. Nach dem Rebasen
+
+![](pictures/Screenshot%202025-12-09%20094632.png)
+
+## 9. Rebase und Merge Unterschied 
+- Rebase macht eine gerade, aufgeräumte History, weil die Commits einfach oben auf main draufgelegt werden.
+- Merge behält die Verzweigung bei, deshalb entsteht ein Merge-Commit
+- Rebase lässt die Historie so wirken, als wären alle Commits in einer einzigen, durchgehenden Reihenfolge entstanden.
+- Merge macht sichtbar, dass zwei zuvor getrennte Entwicklungszweige zusammengeführt wurden.
 
