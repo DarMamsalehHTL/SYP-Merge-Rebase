@@ -18,3 +18,8 @@
 
 ![](pictures/Screenshot%202025-12-03%20122829.png)
 
+## 4. Reflexion
+- Unterschiedliche Historien, weil branches unabhängig weiterlaufen. 
+- Unterschiedliche Dateien, weil die Änderungen nur an den einzelnen Branches existieren, solange nicht gemerged wird.
+
+
