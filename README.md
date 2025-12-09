@@ -22,4 +22,9 @@
 - Unterschiedliche Historien, weil branches unabhängig weiterlaufen. 
 - Unterschiedliche Dateien, weil die Änderungen nur an den einzelnen Branches existieren, solange nicht gemerged wird.
 
+## 5. Historie Main
+
+- ![](pictures/Screenshot%202025-12-09%20092504.png)
+
+
 
